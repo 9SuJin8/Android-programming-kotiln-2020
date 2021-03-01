@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1068227261629",
+    "firebase_url": "https://fir-msg-770f4.firebaseio.com",
+    "project_id": "fir-msg-770f4",
+    "storage_bucket": "fir-msg-770f4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1068227261629:android:4a53deac486fb3dafcf3d4",
+        "android_client_info": {
+          "package_name": "com.example.firebasemsg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1068227261629-7e1pm3poqb67ub82uf03ia6amco62neh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Cz3OGs8VWWYhb36JLe2VRqAvLWBATgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1068227261629-7e1pm3poqb67ub82uf03ia6amco62neh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

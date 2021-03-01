@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "635303071285",
+    "firebase_url": "https://fir-store-bab86.firebaseio.com",
+    "project_id": "fir-store-bab86",
+    "storage_bucket": "fir-store-bab86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635303071285:android:adbf224a869591c3d3eb7c",
+        "android_client_info": {
+          "package_name": "com.example.firebasestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635303071285-ht1s2dh7l0rd0s811agn5v0cav58e0a7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq2RFD4Ka5zqTAfyFi2ozkrvyk3sWAWFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635303071285-ht1s2dh7l0rd0s811agn5v0cav58e0a7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

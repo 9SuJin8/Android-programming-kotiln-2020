@@ -1,0 +1,7 @@
+{
+    "notification" : {
+        "title" : "title here",
+        "body" : "message body here"
+    },
+    "to" : "FCM toekn 값"
+}
