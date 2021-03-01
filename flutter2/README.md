@@ -1,16 +1,9 @@
 # flutter2
 
-A new Flutter application.
+### 요구 사항
+1. 리스트 생성
+2. 항목을 누르면 선택한 항목을 다이얼로그로 보여주기
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<br><br><br><br>
+1. 리스트 생성 및 항목 클릭 시 해당 항목을 다이얼로그로 보여준다.<br>
+![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/68210266/109489839-c90d3300-7aca-11eb-8866-dae4f61c5d67.gif)
